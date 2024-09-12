@@ -83,3 +83,5 @@
 #     print("Savatchangiz bo'sh!")
 
 
+
+print("salom jonibekdev")
